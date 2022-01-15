@@ -1,0 +1,1 @@
+const tableCategories = document.getElementById("tableCategories")
